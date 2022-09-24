@@ -149,6 +149,10 @@ data = {
     "value": get_words(),
     "color": get_random_color()
   },
+  "slogan": {
+    "value": "开始元气满满的一天叭！",
+    "color": get_random_color()
+  },
 }
 
 if __name__ == '__main__':
