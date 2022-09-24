@@ -150,7 +150,7 @@ data = {
     "color": get_random_color()
   },
   "slogan": {
-    "value": "开始元气满满的一天叭！",
+    "value": "开启元气满满的一天叭！",
     "color": get_random_color()
   },
 }
